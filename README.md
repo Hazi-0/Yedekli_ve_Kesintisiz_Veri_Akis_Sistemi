@@ -613,8 +613,10 @@ yapısı kurulmuştur. Kod temiz, refaktörlü ve genişlemeye hazırdır.
 ---
 **Versiyon**: 1.0.0  
 **Son Güncelleme**: Mart 2026
-**İLERLEYEN ZAMANLARDA NEDEN SQL YERİNE REDİS KULLANDIĞIMIZI GÖSTEREN DETAYLI BİR EKLENTİ DE EKLEMEK İSTİYORUM (Nedenleri aşağıda detaylı anlatıldı)**
-**↓**
+
+
+### İLERLEYEN ZAMANLARDA NEDEN SQL YERİNE REDİS KULLANDIĞIMIZI GÖSTEREN DETAYLI BİR EKLENTİ DE EKLEMEK İSTİYORUM (Nedenleri aşağıda detaylı anlatıldı) ###
+### ↓ ###
 
 ## Tasarım Kararları: Neden Redis, Neden SQL Değil?
 
