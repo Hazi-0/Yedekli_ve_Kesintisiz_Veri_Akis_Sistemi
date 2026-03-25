@@ -1,0 +1,5 @@
+# İHA Komuta Kontrol ve Haberleşme Sistemi - Bağımlılıklar
+# Python 3.8+ önerilir. Kurulum: pip install -r requirements.txt
+
+redis>=4.5.0
+customtkinter>=5.2.0
